@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CSV Cleanup Tool 🧼📊
 
 This Python script automates the cleanup of messy CSV files for easier analysis and processing.
@@ -41,3 +42,7 @@ Dependencies:
 
 
 
+=======
+# csv-cleanup-tool
+Cleans and standardizes CSV data using Python. Handles missing values, trims whitespace, and applies field-level formatting to prepare files for analysis or automated workflows.
+>>>>>>> c33f621aa86d1f5e0c9063dd4d51e01dd46a4bc0
